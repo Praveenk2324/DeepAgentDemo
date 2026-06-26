@@ -6,4 +6,4 @@ ipykernel
 tavily-python
 python-dotenv
 langchain-ollama
-pprint
+streamlit
